@@ -1,10 +1,12 @@
 # SIMP Project 2020
 
-simp memiliki arti tidak lain yaitu "Bucin". tampilan dan animasi yang keren ditambah quotes" bucin kalian 
+simp memiliki arti tidak lain yaitu "Bucin". tampilan dan animasi yang keren dengan quotes" bucin kalian yang tiap 10 detik akan berganti secara acak dan tentunya quotes kalian yang sangad cringe
 
 ditambah dengan berbagai macam tema belakang yang kece & bisa otomatis menyesuaikan waktu dihari tersebut
 
 juga ada bagian surprise yang cocok buat doi kamu wkwk :v
+
+Live Website ( DEMO ) : [Pwnz Me!](https://yudas1337.github.io/SIMP_2020/)
 
 # Crafted With :
 <ul>
@@ -14,3 +16,6 @@ juga ada bagian surprise yang cocok buat doi kamu wkwk :v
 <li>Spectrum</li>
 <li>Baffle</li>
 </ul>
+
+# SIMP Preview :
+![1](https://user-images.githubusercontent.com/49679669/79639610-11737900-81b7-11ea-9fe8-f05997ad1507.gif)
