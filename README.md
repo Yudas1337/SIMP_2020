@@ -6,6 +6,8 @@ ditambah dengan berbagai macam tema belakang yang kece & bisa otomatis menyesuai
 
 juga ada bagian surprise yang cocok buat doi kamu wkwk :v
 
+kalian bebas bisa ganti quotes maupun kata" yang ada di surprise terserah .
+
 Live Website ( DEMO ) : [Pwnz Me!](https://yudas1337.github.io/SIMP_2020/)
 
 # Crafted With :
@@ -22,6 +24,3 @@ Live Website ( DEMO ) : [Pwnz Me!](https://yudas1337.github.io/SIMP_2020/)
 
 # Surprise : 
 ![1](surprise.gif)
-
-
-kalian bisa ganti quotes maupun kata" yang ada di surprise terserah .
