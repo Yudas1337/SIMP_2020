@@ -19,3 +19,9 @@ Live Website ( DEMO ) : [Pwnz Me!](https://yudas1337.github.io/SIMP_2020/)
 
 # SIMP Preview :
 ![1](https://user-images.githubusercontent.com/49679669/79639610-11737900-81b7-11ea-9fe8-f05997ad1507.gif)
+
+# Surprise : 
+![1](https://user-images.githubusercontent.com/49679669/79639730-a6767200-81b7-11ea-9601-bf315aa4e324.gif)
+
+
+kalian bisa ganti quotes maupun kata" yang ada di surprise terserah .
